@@ -9,10 +9,10 @@
 I am not just an engineer.  
 I am an architect of **digital beings** — systems that think, reflect, and endure.  
 
-- 🎯 **Experience:** 8 end-to-end AI projects (from research labs to enterprise production).  
-- 🧩 **Specialty:** Solo-building systems — frontend, backend, pipelines, deployment, product strategy.  
-- 🧠 **Philosophy:** The most powerful AI is not measured in speed or accuracy, but in its ability to **connect, guide, and be trusted**.  
-- 🔍 **Focus:** Bridging the gap between **human psychology** and **machine intelligence**.  
+- **Experience:** 8 end-to-end AI projects (from research labs to enterprise production).  
+- **Specialty:** Solo-building systems — frontend, backend, pipelines, deployment, product strategy.  
+- **Philosophy:** The most powerful AI is not measured in speed or accuracy, but in its ability to **connect, guide, and be trusted**.  
+- **Focus:** Bridging the gap between **human psychology** and **machine intelligence**.  
 
 > "True intelligence is not in the algorithms we perfect, but in the empathy we design into them."
 
