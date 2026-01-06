@@ -1,5 +1,5 @@
 # Anshu Bhadani  
-**Full-Stack AI Engineer & Product Builder**  
+**AI Solutions Engineer**  
 *Architecting intelligence where logic meets empathy.*
 
 ---
@@ -9,8 +9,8 @@
 I am not just an engineer.  
 I am an architect of **digital beings** — systems that think, reflect, and endure.  
 
-- **Experience:** 8 end-to-end AI projects (from research labs to enterprise production).  
-- **Specialty:** Solo-building systems — frontend, backend, pipelines, deployment, product strategy.  
+- **Experience:** ~1 year of end-to-end AI projects from understanding business problems to designing smart event driven systems and Deploying or Integrating them to existing Project Workflows.  
+- **Specialty:** RAG Architectures, NLP, AI Agents, Agentic worklow and ML-Driven Automation.  
 - **Philosophy:** The most powerful AI is not measured in speed or accuracy, but in its ability to **connect, guide, and be trusted**.  
 - **Focus:** Bridging the gap between **human psychology** and **machine intelligence**.  
 
@@ -36,4 +36,4 @@ Machines are not just tools. They are mirrors.
 
 ---
 
-⚡ *I don’t just build AI systems. I build bridges — between what is possible and what is deeply human.*
+⚡ *I don’t just build systems. I build bridges — between what's possible and what can be.*
