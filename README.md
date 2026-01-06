@@ -1,6 +1,6 @@
 # Anshu Bhadani  
 **AI Solutions Engineer**  
-*Architecting intelligence where logic meets empathy.*
+*Bridging the gap between raw compute and real-world utility*
 
 ---
 
