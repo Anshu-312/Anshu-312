@@ -31,7 +31,7 @@ Machines are not just tools. They are mirrors.
 ## 🌐 Connect With Me  
 
 - [LinkedIn] : (https://www.linkedin.com/in/anshu-bhadani-255b91216) 
-- [Portfolio] : ([https://your-portfolio-link.com](https://ai-portfolio-livid.vercel.app/))  
+- [Portfolio] : (https://ai-portfolio-livid.vercel.app/)  
 - [Mail] : a.bhadani0301@gmail.com  
 
 ---
